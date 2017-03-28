@@ -14,12 +14,17 @@ En el lado del back-end todo la cuestión de la funcionalidad de las reservacion
 
 ## Descripción funcional
 El proyecto se centrará en los siguientes Aspectos.
+
 **Funcionalidad:** en este aspecto se verá que pueda manejar la dinámica del negocio respecto a las reservaciones del hotel, básicamente las tarea siguientes.
 
 *Crear una reservación
+
 *Verificar si la reservación es posible
+
 *Coordinar al huésped con su habitación el el tiempo y la forma pedida
+
 *Poder cambiar la información de la reservación, de acuerdo a la dinámica del negocio
+
 *Cancelar una reservación de acuerdo a la dinámica del negocio
 
 Aunque en este aspecto se centra más en el servicio de hospedaje del hotel y no es otros servicios derivados, se vería si es posible agregarlos al sistema pero se aclara que **no es un objetivo inicial de proyecto actual.**
