@@ -3,42 +3,58 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+Es la creación de una página web Funcional, Eficaz, Atractiva y Informativa para un servicio de un hotel.
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+Es el desarrollo de un página web dinámica orientada al servicio de un Hotel, tanto para el servicio de información, publicidad así como también el servicio de reservación y administración de las reservaciones. 
+
+En el lado del front-end se pedirá un diseño visualmente atrayente y efectivo, que pueda enseñar la información empresarial del hotel de manera efectiva y así para que los posibles visitantes sean posibles clientes de una forma más eficaz 
+
+En el lado del back-end todo la cuestión de la funcionalidad de las reservaciones, administración de los habitaciones, posibles cancelaciones y así todo este mecanismo relacionado a las reglas de negocio del hotel
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+El proyecto se centrará en los siguientes Aspectos.
+**Funcionalidad:** en este aspecto se verá que pueda manejar la dinámica del negocio respecto a las reservaciones del hotel, básicamente las tarea siguientes.
+
+*Crear una reservación
+*Verificar si la reservación es posible
+*Coordinar al huésped con su habitación el el tiempo y la forma pedida
+*Poder cambiar la información de la reservación, de acuerdo a la dinámica del negocio
+*Cancelar una reservación de acuerdo a la dinámica del negocio
+
+Aunque en este aspecto se centra más en el servicio de hospedaje del hotel y no es otros servicios derivados, se vería si es posible agregarlos al sistema pero se aclara que **no es un objetivo inicial de proyecto actual.**
+
+
+**Efectividad:** se buscará que la página web genere un impacto en la experiencia de usuario lo suficientemente satisfactorio como para incentivar a que use el servicio y así pueda ser un posible cliente.
+
+
+Atractiva: relacionado con el punto anterior pero ahora enfocado más al aspecto visual de la página que sea intuitivo para el usuario pero efectivo a la hora de informar.
+
 
 ### Funcionalidad 1
-La descripción de la funcionalidad 1 es ...
+Que el huésped pueda hacer una reservación de manera simple y eficaz.
 
 ### Funcionalidad 2
-La descripción de la funcionalidad 2 es ...
+Que el huésped al momento de su reservación pueda escoger entre las habitaciones disponibles y que la habitación que escoger sea la que va a tener 
 
 ### Funcionalidad 3
-La descripción de la funcionalidad 3 es ...
+Informar al huésped durante el proceso de reservación del estatus de su reservación (habitación, fecha de llegada, fecha de salida, precio, etc.) para que si algo no le agrada o quiere cambiar puede hacerlo antes de una confirmación
 
 ### Funcionalidad 4
-La descripción de la funcionalidad 4 es ...
+Que un administrador del sistema esté al tanto de todos lo movimiento y pueda organizar la información para que pueda tener listas la habitaciones cuando sea necesario
 
 ### Funcionalidad 5
-La descripción de la funcionalidad 5 es ...
+En caso que la dinámica del hotel lo permita, que el huésped pueda cambiar aspectos de su reservación después de su confirmación anterior, claro eso es si la dinámica del negocio lo permita
 
-## Autor(es)
-El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+### Funcionalidad 6
+En caso de que la dinámica del hotel lo permita, que el huésped pueda dar de baja su reservación, claro está que esta acción puede estar sujeta a las condiciones de la dinámica del negocio 
+
+## Autor
+El autor del proyecto son:
+- Irvin Alexis Rodriguez Estrada (@IrvinAlexis)
 
 ## Materia(s)
 - Tecnologías Web
 
 ## Semestre
 - 2016-2017/II
-
-## Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
-
-## Temas de Jekyll
-El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
