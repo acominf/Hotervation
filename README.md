@@ -58,8 +58,14 @@ En caso de que la dinámica del hotel lo permita, que el huésped pueda dar de b
 El autor del proyecto son:
 - Irvin Alexis Rodriguez Estrada (@IrvinAlexis)
 
-## Materia(s)
+## Materia
 - Tecnologías Web
 
 ## Semestre
 - 2016-2017/II
+
+## Institucion
+- Universidad Autonoma de San Luis Potosi
+
+## Facultad
+- Facultad de Ingenieria, Area Computacion e Informatica
