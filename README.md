@@ -60,10 +60,10 @@ En caso de que la dinámica del hotel lo permita, que el huésped pueda dar de b
 ![Diagrama Componentes](https://raw.githubusercontent.com/acominf/Hotervation/master/Imagenes/Document%201.png)
 
 
-##Video de Youtube:
+## Video de Youtube:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f7dZyNxfIkk" frameborder="0" allowfullscreen></iframe>
 
-##Link a la Pagina Web
+## Link a la Pagina Web
 [Ir a la Pagina Web](http://148.224.194.33/hotervat/)
 
 ## Autor
