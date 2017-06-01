@@ -1,6 +1,6 @@
 # Hotervation
 
-![En construcción](C:\xampp\htdocs\Hotervation\imagenes\logo.png)
+![En construcción](http://148.224.194.33/hotervat/imagenes/logo.png)
 
 ## Objetivo de la aplicación
 Es la creación de una página web Funcional, Eficaz, Atractiva y Informativa para un servicio de un hotel.
