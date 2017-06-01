@@ -1,6 +1,6 @@
 # Hotervation
 
-![En construcción](http://148.224.194.33/hotervat/imagenes/logo.png)
+![En construcción](https://raw.githubusercontent.com/acominf/Hotervation/master/Imagenes/logo.png)
 
 ## Objetivo de la aplicación
 Es la creación de una página web Funcional, Eficaz, Atractiva y Informativa para un servicio de un hotel.
@@ -54,7 +54,9 @@ En caso que la dinámica del hotel lo permita, que el huésped pueda cambiar asp
 ### Funcionalidad 6
 En caso de que la dinámica del hotel lo permita, que el huésped pueda dar de baja su reservación, claro está que esta acción puede estar sujeta a las condiciones de la dinámica del negocio 
 
+## Diagrama Entidad Relacion
 ![Diagrama Entidad Relacion](https://raw.githubusercontent.com/acominf/Hotervation/master/Imagenes/Dibujo1.png)
+## Objetivo de Componentes
 ![Diagrama Componentes](https://raw.githubusercontent.com/acominf/Hotervation/master/Imagenes/Document%201.png)
 
 ## Autor
